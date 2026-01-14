@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: docs
+  bibliography: references.bib
 
 website:
   title: "BNFO 420 Capstone"
