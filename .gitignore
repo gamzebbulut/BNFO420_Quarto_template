@@ -24,3 +24,6 @@ _site/
 # data/*.csv
 # data/*.tsv
 # data/*.xlsx
+
+/.quarto/
+**/*.quarto_ipynb
