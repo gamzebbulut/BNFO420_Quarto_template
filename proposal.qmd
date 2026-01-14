@@ -1,0 +1,24 @@
+---
+title: "Proposal"
+---
+
+## Research question
+State your main question in 1–2 sentences.
+
+## Dataset(s)
+- Source:
+- Sample size:
+- Key variables:
+- License/usage notes:
+
+## Planned analysis
+Describe your plan in bullets:
+- Cleaning/QC
+- Visualizations
+- Statistical/ML approach
+- How you’ll validate (train/test, CV, sensitivity checks, etc.)
+
+## Deliverables
+- Website sections
+- Key figures/tables
+- Any optional stretch goals
