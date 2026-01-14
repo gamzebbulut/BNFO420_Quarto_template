@@ -3,7 +3,8 @@ title: "Proposal"
 ---
 
 ## Research question
-State your main question in 1–2 sentences.
+State your main question in 1–2 sentences. We are just using plain text here. For example Alcohol-associated liver disease is influenced by both genetic and
+environmental factors. In this project, we analyze publicly available transcriptomic data to evaluate...
 
 ## Dataset(s)
 - Source:
